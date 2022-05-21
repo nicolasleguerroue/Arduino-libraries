@@ -1,0 +1,26 @@
+# Datatypes (KEYWORD1)
+#######################################
+
+Joystick 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+joystick	KEYWORD2
+begin	KEYWORD2 
+setShortTime	KEYWORD2
+setLongTime	KEYWORD2
+read	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+
+UP	LITERAL1
+DOWN	LITERAL1
+LEFT	LITERAL1
+RIGHT	LITERAL1
+SHORT_PUSH	LITERAL1
+LONG_PUSH	LITERAL1
+UP	LITERAL1
+DOWN	LITERAL1

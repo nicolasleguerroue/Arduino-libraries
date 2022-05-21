@@ -1,0 +1,5 @@
+NOM 		: RGB
+VERSION 	: 1.29.18
+Auteur 		: Nicolas Le Guerroué
+Couleurs disponibles : RED-GREEN-BLUE-CYAN-ORANGE-WHITE-PURPLE-TURQUOISE-YELLOW-MAGENTA-ROSE
+

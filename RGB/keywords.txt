@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGB	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+on	KEYWORD2
+blink	KEYWORD2
+debug	KEYWORD2
+randomRGB	KEYWORD2
+off	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+
+RED	LITERAL1
+GREEN	LITERAL1
+BLUE	LITERAL1
+PURPLE	LITERAL1
+ORANGE	LITERAL1
+WHITE	LITERAL1
+YELLOW	LITERAL1
+TURQUOISE	LITERAL1
+ROSE	LITERAL1
+MAGENTA	LITERAL1
+
+
+#######################################
