@@ -1,0 +1,33 @@
+
+# Datatypes (KEYWORD1)
+#######################################
+
+
+Gyro_MPU6050	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+gyroscop	KEYWORD2
+gyro    KEYWORD2
+readAll KEYWORD2
+getAccelerations    KEYWORD2
+getGyroSpeeds   KEYWORD2
+setAlgorithm    KEYWORD2
+roll    KEYWORD2
+pitch   KEYWORD2
+initRoll    KEYWORD2
+initPitch   KEYWORD2
+relativeRoll    KEYWORD2
+relativePitch   KEYWORD2
+calibrate   KEYWORD2
+begin   KEYWORD2
+getTemperature  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ADDRESS_GYRO    LITERAL1

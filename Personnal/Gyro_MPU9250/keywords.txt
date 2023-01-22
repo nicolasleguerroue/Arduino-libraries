@@ -1,0 +1,46 @@
+
+# Datatypes (KEYWORD1)
+#######################################
+
+
+Gyro_MPU9250	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+gyroscop	KEYWORD2
+gyro    KEYWORD2
+Algorithm   KEYWORD2
+GyroSpeed   KEYWORD2
+readAll KEYWORD2
+getAccelerations    KEYWORD2
+getGyroSpeeds   KEYWORD2
+setAlgorithm    KEYWORD2
+setMagneticDeclination  KEYWORD2
+roll    KEYWORD2
+pitch   KEYWORD2
+yaw KEYWORD2
+initRoll    KEYWORD2
+initPitch   KEYWORD2
+initYaw KEYWORD2
+relativeRoll    KEYWORD2
+relativePitch   KEYWORD2
+relativeYaw KEYWORD2
+calibrate   KEYWORD2
+begin   KEYWORD2
+getTemperature  KEYWORD2
+storeValuesInEEPROM KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ADDRESS_GYRO    LITERAL1
+ALGORITHM_MADWICK   LITERAL1
+ALGORITHM_MAHONY    LITERAL1
+Madgwick    LITERAL1
+Mahony  LITERAL1
+radPerSec   LITERAL1
+degPerSec   LITERAL1
