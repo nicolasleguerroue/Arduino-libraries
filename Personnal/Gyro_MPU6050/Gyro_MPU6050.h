@@ -8,6 +8,10 @@
  * @copyright
  * 
  */
+
+#ifndef GYRO_MPU6050_H
+#define GYRO_MPU6050_H
+
 #include "Arduino.h"
 #include<Wire.h>
 #include <math.h>
@@ -163,3 +167,4 @@ private:
 
 }; //End Gyro__MPU6050
 
+#endif

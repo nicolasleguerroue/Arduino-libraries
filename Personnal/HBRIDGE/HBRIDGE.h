@@ -6,6 +6,10 @@
  * @date 2023-01-22
  * 
  */
+
+#ifndef HBRIDGE_H
+#define HBRIDGE_H
+
 #include "Arduino.h"
 
 #define MAX 255
@@ -93,4 +97,4 @@ private:
 };
 
 
-
+#endif

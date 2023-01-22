@@ -6,6 +6,9 @@
  * @date 2023-01-22
  */
 
+#ifndef SR04_H
+#define SR04_H
+
 #include "Arduino.h"
 
 #define M 1
@@ -41,3 +44,5 @@ private:
 	float _cm = 0;
 	
 };
+
+#endif

@@ -6,6 +6,10 @@
  * @date 2023-01-22
  * 
  */
+
+#ifndef MAGNETO_H
+#define MAGNETO_H
+
 #include "Arduino.h"
 #include "CapPin.h"
 
@@ -43,3 +47,5 @@ private:
  	CapPin CapSense;
 	
 };//End Magneto class
+
+#endif

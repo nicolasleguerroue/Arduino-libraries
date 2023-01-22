@@ -6,6 +6,10 @@
  * @date 2023-01-22
  * 
  */
+
+#ifndef LED_H
+#define LED_H
+
 #include "Arduino.h"
 
 #define INTERNAL_LED 13
@@ -72,3 +76,5 @@ private:
 	byte _led;
 
 };
+
+#endif

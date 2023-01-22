@@ -8,6 +8,10 @@
  * @copyright
  * 
  */
+
+#ifndef GYRO_MPU9250_H
+#define GYRO_MPU9250_H
+
 #include "Arduino.h"
 #include "quaternionFilters.h"
 #include <EEPROM.h>
@@ -217,5 +221,6 @@ private:
   float _magneticDeclination = +15.49;
   
 
-}; //End Gyro
+}; //End Gyros
 
+#endif

@@ -6,6 +6,9 @@
  * @date 2023-01-22
  * 
  */
+#ifndef RGB_H
+#define RGB_H
+
 #include "Arduino.h"
 
 #define RED 0
@@ -75,3 +78,6 @@ int pin_greenIN;
 int pin_blueIN;
 
 }; 
+
+
+#endif
