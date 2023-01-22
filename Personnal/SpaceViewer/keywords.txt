@@ -1,0 +1,23 @@
+#######################################
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SpaceViewer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getSpacePosition	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+TRIGGER_FORWARD 	LITERAL1
+TRIGGER_BACKWARD	LITERAL1 	
+TRIGGER_LEFT    LITERAL1
+TRIGGER_RIGHT   LITERAL1
+#######################################
